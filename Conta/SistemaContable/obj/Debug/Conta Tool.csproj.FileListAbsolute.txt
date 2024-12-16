@@ -1,0 +1,26 @@
+C:\Users\marce\Downloads\Conta\Conta Tool\bin\Debug\Conta Tool.exe.config
+C:\Users\marce\Downloads\Conta\Conta Tool\bin\Debug\Conta Tool.exe
+C:\Users\marce\Downloads\Conta\Conta Tool\bin\Debug\Conta Tool.pdb
+C:\Users\marce\Downloads\Conta\Conta Tool\obj\Debug\Conta Tool.csproj.AssemblyReference.cache
+C:\Users\marce\Downloads\Conta\Conta Tool\obj\Debug\Conta_Tool.Form1.resources
+C:\Users\marce\Downloads\Conta\Conta Tool\obj\Debug\Conta_Tool.Form2.resources
+C:\Users\marce\Downloads\Conta\Conta Tool\obj\Debug\Conta_Tool.Properties.Resources.resources
+C:\Users\marce\Downloads\Conta\Conta Tool\obj\Debug\Conta Tool.csproj.GenerateResource.cache
+C:\Users\marce\Downloads\Conta\Conta Tool\obj\Debug\Conta Tool.csproj.CoreCompileInputs.cache
+C:\Users\marce\Downloads\Conta\Conta Tool\obj\Debug\Conta Tool.exe
+C:\Users\marce\Downloads\Conta\Conta Tool\obj\Debug\Conta Tool.pdb
+C:\Users\marce\Downloads\Conta\Conta Tool\obj\Debug\Conta_Tool.Form3.resources
+C:\Conta\SistemaContable\bin\Debug\Conta Tool.exe.config
+C:\Conta\SistemaContable\bin\Debug\Conta Tool.exe
+C:\Conta\SistemaContable\bin\Debug\Conta Tool.pdb
+C:\Conta\SistemaContable\obj\Debug\Conta Tool.csproj.AssemblyReference.cache
+C:\Conta\SistemaContable\obj\Debug\Conta_Tool.Balancegeneral.resources
+C:\Conta\SistemaContable\obj\Debug\Conta_Tool.Form1.resources
+C:\Conta\SistemaContable\obj\Debug\Conta_Tool.Form2.resources
+C:\Conta\SistemaContable\obj\Debug\Conta_Tool.Form3.resources
+C:\Conta\SistemaContable\obj\Debug\Conta_Tool.Properties.Resources.resources
+C:\Conta\SistemaContable\obj\Debug\Conta Tool.csproj.GenerateResource.cache
+C:\Conta\SistemaContable\obj\Debug\Conta Tool.csproj.CoreCompileInputs.cache
+C:\Conta\SistemaContable\obj\Debug\Conta Tool.exe
+C:\Conta\SistemaContable\obj\Debug\Conta Tool.pdb
+C:\Conta\SistemaContable\obj\Debug\Conta_Tool.Edit.resources
